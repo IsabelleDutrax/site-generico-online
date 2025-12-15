@@ -1,5 +1,5 @@
 Stellar by HTML5 UP
-Link: www.belalu.com.br
+Link: belalu.com.br
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
